@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithila Narmada</h1>
 <h3 align="center">Studying Software Engineer..</h3>
+<image src="https://xperti.io/blogs/wp-content/uploads/2021/11/xblog-AcceleratingJava.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decx13&label=Profile%20views&color=0e75b6&style=flat" alt="decx13" /> </p>
 
