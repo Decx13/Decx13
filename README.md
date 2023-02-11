@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decx13" alt="decx13" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mithila_narmada" target="blank"><img src="https://img.shields.io/twitter/follow/@mithila_narmada?logo=twitter&style=for-the-badge" alt="@mithila_narmada" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science & Software Engineering**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Decx13?tab=projects](https://github.com/Decx13?tab=projects)
 
 - 💬 Ask me about **Java**
 
@@ -15,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mithila_narmada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mithila_narmada" height="30" width="40" /></a>
 <a href="https://instagram.com/mithila_narmada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mithila_narmada" height="30" width="40" /></a>
 <a href="https://discord.gg/Decx#5571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Decx#5571" height="30" width="40" /></a>
 </p>
